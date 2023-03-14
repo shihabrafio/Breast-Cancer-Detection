@@ -3,3 +3,4 @@
 - Used Mammography for Image Preprocessing
 - Preprocessed Images were used for model trainning
 - Used different type of data visualization
+- Used Transformer Training for model training
